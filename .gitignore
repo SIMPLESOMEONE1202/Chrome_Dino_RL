@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.zip
+*.log
+logs/
+train/
+eval_logs/
+best_model/
+.env
+
