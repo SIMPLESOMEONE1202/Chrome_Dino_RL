@@ -105,4 +105,5 @@ This oscillation highlights known limitations of vanilla DQN in:
 
 To view this file:
 🔍 **View notebook (nbviewer):**  
+https://nbviewer.org/github/SIMPLESOMEONE1202/Chrome_Dino_RL/blob/main/DinoAI.ipynb
 
